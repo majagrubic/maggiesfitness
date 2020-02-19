@@ -21,8 +21,7 @@ class Menu extends React.Component {
         ? page.node.frontmatter.menuTitle
         : page.node.frontmatter.title
     }));
-    const pagesToRender = pages[0];
-    debugger;
+    const pagesToRender = [pages[0]];
     this.items = [
       { to: "/", label: "Home", icon: FaHome },
       { to: "/category/", label: "Categories", icon: FaTag },
