@@ -32,7 +32,7 @@ const Post = props => {
     prev: prevPost,
     theme
   } = props;
-
+  const prevPostToShow = prevPost.fields.slug.includes("draft-post") ? undefined : prevPost;
   return (
     <React.Fragment>
       <header>
@@ -43,7 +43,7 @@ const Post = props => {
       <footer>
         <Share post={post} theme={theme} />
         <Author note={authornote} theme={theme} />
-        <NextPrev next={nextPost} prev={prevPost} theme={theme} />
+        <NextPrev next={nextPost} prev={prevPostToShow} theme={theme} />
         <Comments slug={slug} facebook={facebook} theme={theme} />
       </footer>
     </React.Fragment>
