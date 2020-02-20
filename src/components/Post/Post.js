@@ -32,7 +32,13 @@ const Post = props => {
     prev: prevPost,
     theme
   } = props;
-  const prevPostToShow = prevPost.fields.slug.includes("draft-post") ? undefined : prevPost;
+  const prevPostToShow =
+    prevPost &&
+    prevPost.fields &&
+    prevPost.fields.slug &&
+    prevPost.fields.slug.includes("draft-post")
+      ? undefined
+      : prevPost;
   return (
     <React.Fragment>
       <header>

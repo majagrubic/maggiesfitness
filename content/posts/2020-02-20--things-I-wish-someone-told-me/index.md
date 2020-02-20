@@ -19,16 +19,16 @@ to do both, to maintain - food is your fuel. You will need to be eq diligent and
 
 #### Aim for progress over perfection
 This one took me a long long time to implement fully. I would decide that from Monday I'm eating 100% clean and in line with my macros. I would buy all this nice food and by Thursday/Friday
-I would be eating pizzas, cakes, burgers... my body was craving all the fatty/sugary food. Starting a new diet regimen takes time for body to adjust. Be patient and be consistent.
-Nobody eats 100% clean, except maybe people competing in physique competitions, but even they do it for a limited period of time.
-In order for nutrition plan to be consistent, it needs to be maintainable, and maintainable means eating the foods you like. The rule that most fitness experts
-recommend is 80/20 - 80% clean, 20% whatever. So for example, having a pizza for lunch every day will break 80/20 rule, but having a slice(!) of pizza once a week is perfectly acceptable.
+I would be eating pizzas, cakes, burgers, because my body was craving all the fatty/sugary food. It takes a while for your body to adjust to the new diet regimen. 
+The smaller the changes, the easier the adjustment. The key is to be patient and be consistent. And remember - nobody eats 100% clean, except maybe physique competitors, but even they do it for a limited period of time.
+In order for nutrition plan to be stick, it needs to be maintainable, and maintainable means eating the foods you like. The rule that most fitness experts
+recommend is 80/20 - 80% clean, 20% whatever. It took me a long long time to get this nailed down. Now I treat food as fuel (yes, I eat endless amounts of chicken breasts and veggies), but also enjoy fried/fatty/sugary food from time to time.
 
 #### Count macros
 What are macros? Simplified, macro nutrients are the 3 big groups that our body needs: proteins, carbohydrates and fats (as opposed to micronutrients - vitamins and minerals).
 How many of each you need is very individual - depends on your height, weight, regular activity levels, training regimen, goals... Try to get someone to do it for you. There's a free Macros Inc.
 facebook group and they offer macros calculations. For tracking, a lot of people use MyFitnessPal, which is also free. 
-There are some paid apps (RP strength) that do macros calculations and . I've personally paid someone to do that for me, and I'm tracking them in a notebook (oldschool I know). What I don't like about
+There are some paid apps (RP strength) that do macros calculations and tracking. I've personally paid someone to do that for me, and I'm tracking them in a notebook (oldschool I know). What I don't like about
 MyFitnessPal is that you need to log the entire meal (eg. 200g of chicken, 50g of potatoes), which I find time consuming. When logging macros in my notebook I just log how much of each I've had, so it's just three numbers.
 
 ### Don't be afraid of the gym
