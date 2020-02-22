@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "Maggie's Fitness", // <title>
   shortSiteTitle: "Fitness journey", // <title> ending for posts and pages
   siteDescription: "Fitness journey by a woman named Maggie.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteUrl: "https://maggiesfitness.net/",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
