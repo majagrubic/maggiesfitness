@@ -29,7 +29,7 @@ const Bodytext = props => {
           }
 
           :global(p) {
-            font-size: ${theme.font.size.s};
+            font-size: ${theme.font.size.xs};
             line-height: ${theme.font.lineHeight.xxl};
             margin: 0 0 1.5em;
           }
@@ -61,6 +61,10 @@ const Bodytext = props => {
             color: inherit;
             padding: 0.1em 0.3em 0.2em;
             border-radius: 0.1em;
+          }
+          :global(ol) {
+            padding-left: 40px;
+            font-style: italic;
           }
         }
 
