@@ -45,13 +45,7 @@ const Contact = props => {
       })
       .catch(error => {
         console.error("Form submission error:", error);
-        handleNetworkError();
       });
-  }
-
-  function handleNetworkError(e) {
-    console.log("submit Error");
-    console.dir(e);
   }
 
   return (
