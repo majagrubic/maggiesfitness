@@ -14,7 +14,7 @@ Admittedly, that one I DID know. However, I thought it didn't apply to me. My en
 lean meat, a lot of fish, veggies, complex carbs... In my family, a trip to fast food was done on national holidays, maybe twice a year.
 So when I started working out I thought that my regular diet is enough to keep me going. How wrong I was! Even when training consistently and following a proper exercise plan, I still couldn't make progress. That's when I paid a nutrition coach to do 
 a meal plan for me. It turned out I was eating 50% less than I was supposed to! Whatever your goal is - to lose fat, to gain muscle,
-to do both - food is your fuel. You will need to be equally diligent and organized with what you eat the same as you will need to be in the gym.
+to do both - food is your fuel. You will need to be equally diligent and organized with what you eat as you will need to be in the gym.
 
 ### Aim for progress over perfection
 This one took me a long long time to fully implement. I would decide that from Monday I'm eating 100% clean and go to the gym every day. I would buy all this nice food and by Thursday/Friday
