@@ -64,7 +64,9 @@ const Contact = props => {
               data-netlify="true"
               data-netlify-honeypot="bot-field"
             >
-              <input type="hidden" name="bot-field" />
+              <FormItem>
+                <Input type="hidden" name="bot-field" />
+              </FormItem>
               <FormItem label="Name">
                 {getFieldDecorator("name", {
                   rules: [
@@ -109,6 +111,9 @@ const Contact = props => {
               }
               .form :global(.ant-row.ant-form-item) {
                 margin: 0 0 1em;
+              }
+              .form :global(.ant-row.ant-form-item:first-child) {
+                margin-top: -1em;
               }
               .form :global(.ant-row.ant-form-item:last-child) {
                 margin-top: 1em;
