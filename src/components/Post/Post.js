@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import "prismjs/themes/prism-okaidia.css";
+import { DiscussionEmbed } from "disqus-react";
 
 import asyncComponent from "../AsyncComponent";
 import Headline from "../Article/Headline";
@@ -32,6 +33,10 @@ const Post = props => {
     prev: prevPost,
     theme
   } = props;
+  const disqusConfig = {
+    shortname: process.env.GATSBY_DISQUS_NAME,
+    config: { identifier: props.post.fields.slug }
+  };
   const prevPostToShow =
     prevPost &&
     prevPost.fields &&
@@ -51,6 +56,7 @@ const Post = props => {
         <Author note={authornote} theme={theme} />
         <NextPrev next={nextPost} prev={prevPostToShow} theme={theme} />
         <Comments slug={slug} facebook={facebook} theme={theme} />
+        <DiscussionEmbed {...disqusConfig} />
       </footer>
     </React.Fragment>
   );
