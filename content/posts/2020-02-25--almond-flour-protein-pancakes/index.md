@@ -10,7 +10,7 @@ experiment with pancake mixes that won't completely blow my macros out of propor
 In the past I've experimented with coconut flour, but today wanted to try the almond flour. I'm pretty happy with how this turned
 out, so thought I'd share it.
 
-![Pancakes](./pancakes-cover.jpeg "Title")
+![Pancakes](./pancakes-cover.png "Pancakes")
 
 #### Ingredients
 * almond flour (2 full tbsp)
@@ -30,8 +30,8 @@ Since almond flour is a bit higher in fats than regular flour, I've decided to m
 a whole egg can probably be substituted with just an egg white, but I haven't tried that. Vanilla sugar can be replaced with sugar-free syrup or pure vanilla extract, to cut down on carbs.
 
 #### Servings
-In my medium-sized frying pan, the mixture above made 3 decently-sized fluffy pancakes. I think these would be even better in a smaller size.
-I love topping mine with fruit and real Canadian maple syrup (it's called "Fat Tuesday" for a reason, ok? :D)
+In my medium-sized frying pan, the mixture above made 3 decently-sized fluffy pancakes. I think these would be even better made smaller.
+I love topping mine with fruit and real Canadian maple syrup (it's called "Fat Tuesday" for a reason, ok? :smiley:).
 
 ![Pancakes-Served](./pancakes-closeup.png "Pancakes Served")
 
@@ -47,6 +47,6 @@ This does not include frying oil nor topping.
 * fat: 9g
 * carbs: 7g
 
-Not bad for a delicious breakfast :)
+Not bad for a delicious breakfast :yum:
 
 
