@@ -66,6 +66,9 @@ const Bodytext = props => {
             padding-left: 40px;
             font-style: italic;
           }
+          :global(blockquote) {
+            font-style: italic;
+          }
         }
 
         @keyframes bodytextEntry {
