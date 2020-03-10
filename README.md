@@ -98,29 +98,18 @@ ALGOLIA_INDEX_NAME=...
 FB_APP_ID=...
 ```
 
-### Instructions & tutorials
+### Fitness Blog
+My personal blog about my fitness journey.
 
-- [How to install, setup and add new content to a Blog starter](https://dev.greglobinski.com/install-blog-starter/)
-- [Setup Algolia account for your GatsbyJS blog](https://dev.greglobinski.com/setup-algolia-account/)
-- More articles at [Front-end web development with Greg](https://dev.greglobinski.com/)
 
-## Windows users
+### Powered By
+- GatsbyJS
+- Hosted on Netlify
+- Images by unsplash.com
 
-You should take a look at this: [Gatsby on Windows](https://www.gatsbyjs.org/docs/gatsby-on-windows/)
 
-## Authors
-
-- Greg Lobinski [@greglobinski](https://github.com/greglobinski)
-
-See also the list of [contributors](https://github.com/greglobinski/gatsby-starter-personal-blog/graphs/contributors) who participated in this project.
-
-## Contributing
-
-- Fork the repo
-- Create your feature branch (git checkout -b feature/fooBar)
-- Commit your changes (git commit -am 'Add some fooBar')
-- Push to the branch (git push origin feature/fooBar)
-- Create a new Pull Request
+## Theme
+- gatsby-starter-hero-blog by Greg Lobinski [@greglobinski](https://github.com/greglobinski)
 
 ## Licence
 
