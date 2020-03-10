@@ -16,7 +16,7 @@ something I should cut out completely too? Can I stay careful, but not cut into 
 
 #### Gyms are known as the bacteria nesting place
 Enclosed space where everyone sweats and drips their sweat over everything they touch is gross even under normal circumstances. Barbell is full of bacteria on a regular day. Don't even get me started on the mats.
-I'm not easily freaked out by those things, but I do wash my hands even in between exercises even on a regular day. However, there is just no way that I can spend an hour in the gym and wash my hands every time I need to scratch my face.
+I'm not easily freaked out by those things, but I do wash my hands in between exercises even on a regular day. However, there is just no way that I can spend an hour in the gym and wash my hands every time I need to scratch my face.
 My body sweats, my hair sticks to my sweaty face, it itches and I just need to scratch it. A sweat drops hits my eye and all my precaution goes to waste there and then.
 
 #### It's the risk I'm willing to take
