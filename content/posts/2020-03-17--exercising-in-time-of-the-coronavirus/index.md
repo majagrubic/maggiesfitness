@@ -1,5 +1,5 @@
 ---
-title: Exercising in Time of Coronavirus
+title: Exercising in Time of the Coronavirus
 category: "motivation"
 cover: woman-exercising-3.png
 author: maggie
