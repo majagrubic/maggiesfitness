@@ -4,7 +4,7 @@ category: "motivation"
 cover: woman-exercising-3.png
 author: maggie
 ---
-![Medical Mask](./woman-exercising.png "Woman Exercising")
+![Woman Exercising](./woman-exercising.png "Woman Exercising")
 
 Coronavirus halted us still in our tracks. All stop was declared on our schooling, hobbies, socializing and all sorts of activities.
 Only a week ago I wrote about how [I was still going to the gym](https://maggiesfitness.net/going-to-the-gym-coronavirus/). Yet, a week ago in these circumstances feels like a lifetime ago. 
