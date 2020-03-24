@@ -1,5 +1,5 @@
 ---
-title: Staying Sane in These Times of Uncertainty
+title: Staying Sane During These Times of Uncertainty
 category: "mental health"
 cover: anxiety.jpeg
 author: maggie
