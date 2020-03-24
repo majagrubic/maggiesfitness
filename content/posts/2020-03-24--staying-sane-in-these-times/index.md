@@ -43,6 +43,13 @@ Under normal circumstances, I food prep once every 2-3 days, and have food ready
 I'm learning to be more creative in the kitchen (the other day I made my first-ever tofu curry). I'm looking for ways to get creative while not totally ruining my macros.
 Hoping to post some culinary experiments here soon. 
 
+### Distance yourself from a source of anxiety
+I know this sounds self-explanatory, but it took me a while to understand what exactly do I consider a source of anxiety. For some people it's not being on social media or reading the news at all.
+While reading the news is super stressful these days, having access to information actually makes me feel more calm. Even bad news is better than no news. 
+However, last week I found myself blocking a few people on Twitter and leaving a few of the fitness groups I had been following. While I love the gym as much as the next person, 
+I couldn't stand all the "I'm gonna lose my gains" whining. People are dying or losing their homes and jobs at best and I just can't cope with first-world entitlement right now. 
+It was causing too much additional stress for me, so I removed myself from it.
+
 ### Coloring book
 Two weeks ago I ordered a coloring book on Amazon, and I can't believe how did I ever live without it. It is so soothing that you won't notice 2-3 hrs passed by in a flash.
 Seriously, everyone needs a coloring book. 
