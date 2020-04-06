@@ -9,8 +9,8 @@ Even before the covid-19 quarantine started, I began incorporating skipping rope
 or as a standalone and fun cardio workout. For me it has two additional benefits: it improves the coordination, which I'm really bad at and strengthens
 the calves, which I'm also notorious for neglecting. Also, a while ago I thought how it would also be great for traveling - it fits even in the tiniest carry-ons and
 it would allow me do a quick cardio workout wherever. I guess that's not an issue currently :cry: Nowadays, with the quarantine rules getting
-stricter and stricter every day, it's even more valuable. I normally just go in front of my building and do a jumping session there, but if you're stuck
-inside (and don't have neighbours), you can even do it in your living room.
+stricter and stricter every day, it's even more valuable. I normally just go in front of my building and do a jumping session there. If you don't have neighbours below you, 
+you can even do it in your living room.
 
 ### The basics
 To get started, you'll need - well, a skipping rope. Avoid big, heavy sturdy ones, or the ones for kids. Invest in a proper skipping rope, something a bit more durable.
