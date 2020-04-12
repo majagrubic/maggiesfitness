@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "Maggie's Fitness", // <title>
   shortSiteTitle: "Fitness journey", // <title> ending for posts and pages
   siteDescription: "Fitness journey by a woman named Maggie.",
-  siteUrl: "https://maggiesfitness.net/",
+  siteUrl: "https://maggiesfitness.net",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
