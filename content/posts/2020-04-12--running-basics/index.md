@@ -20,11 +20,17 @@ Unless you are an experienced runner, I would strongly suggest not to run every 
 
 ### Good running shoes
 I understand a lot of people have lost their jobs or the future of their jobs is uncertain. 
-However, if you can financially, invest in good running shoes. Good running shoes are the ones that are good for **you**. A lot of stores have dedicated sections for trying on running shoes. Some will let you run on a treadmill for a bit. Some will even you take the shoes for a run around the building. Obviously, none of that is available at the moment, so you will have to order online. Try to see what kind of a strider you are - heel, midfoot, front foot. Do some research online based on what you know about your running and try to make the best guess. Personally, I swear by Mizuno Wave and have been using them exclusively for years. I just get a new model every time I need to replace my running shoes.
+However, if you can financially, invest in good running shoes. Good running shoes are the ones that are good for **you**. A lot of stores have dedicated sections for trying on running shoes.
+ Some will let you run on a treadmill for a bit. Some will even allow you to take the shoes for a run around the building. 
+ Obviously, none of that is available at the moment, so you will have to order online. Try to see what kind of a strider you are - heel, midfoot, front foot. Do some research online based on what you know about your running and try to make the best guess. 
+ Personally, I have Mizuno Wave and have been using them for years. I just get a new model every time I need to replace my running shoes.
 
 ### Optimize for distance, not speed
-What I see a lot of new runners trying to do is beat themselves (their spouses, their friends) in how fast they can run 3km. They run day after day, trying to be faster than yesterday. Forget the pace. Until you can comfortably run 10km, you shouldn't care about how fast you run. Comfortable pace is the one that let's you breathe normally. General rule is - you should be able to keep a  conversation normally. If you feel you can sing, you're running too slow. If you're running out of breath and can't even talk, you're running too fast. Talk to yourself if you have to, it's fine :) At the end of the run, you should feel tired, but not exhausted.
-####
+What I see a lot of new runners trying to do is beat themselves (their spouses, their friends) in how fast they can run, no matter if they can't run for more than 3km\*. They run day after day, trying to be faster than yesterday. Forget the pace. Until you can comfortably run 10km, you shouldn't care about how fast you run. 
+Comfortable pace is the one that lets you breathe normally. General rule is - you should be able to maintain a conversation. If you feel you can sing, you're running too slow. 
+If you're losing breath and can't even talk, you're running too fast. Talk to yourself if don't have a running partner these days. 
+Don't worry, most people will think you're crazy just because you're running in the first place :smiley: Finally, at the end of the run, you should feel tired, but not exhausted.
+###
 \* I understand that under these circumstances you may only be allowed/have space to run 3km per day. In that case, do whatever you can, what works for you.
 
 ### Walking is your friend
@@ -56,7 +62,7 @@ Sat: 24 min (4 + 2 + 4 + 2 + 4 + 2 + 4 + 2)
 26 min (5 + 2 + 5 + 2 + 5 + 2 + 5)   
 30 min (5 + 2 + 7 + 2 + 7 + 2 + 5)  
    
-**Week3***
+***Week3***   
 30 min (5 + 2 + 7 + 2 + 7 + 2 + 5)   
 34 min (7 + 2 + 7 + 2 + 7 + 2 + 7)   
 36 min (5 + 2 + 10 + 2 + 10 + 2 + 5)   
