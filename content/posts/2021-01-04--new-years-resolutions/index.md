@@ -47,8 +47,8 @@ you feel more motivated and make it that harder to give up. Likewise, changing b
 6. Have support from people around you
 
 New habits take a while to form and stick. The more support you have from people around you, the less likely you'll feel tempted to fall into the old behaviors.
-Understand that not everyone will be supportive of this new lifestyle and that you may lose a few people along the way. But I promised you it will be worth it!
+Understand that not everyone will be supportive of this new lifestyle and that you may lose a few people along the way. But I promise you - it will be worth it!
 
-Whatever you do - don't forget to have fun. Also, check my blog post about [starting my own fitness journey](https://maggiesfitness.net/things-I-wish-someone-told-me/) and what had learned since then.
+Whatever you do - don't forget to have fun. Also, check my blog post about [starting my own fitness journey](https://maggiesfitness.net/things-I-wish-someone-told-me/) and what I had learned since then.
 
 Happy new year!
